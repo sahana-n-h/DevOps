@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 changes to cause merge conf
+=======
+change regarding conflict 2
+>>>>>>> branch3
