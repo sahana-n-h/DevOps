@@ -1,0 +1,11 @@
+{
+"name": "node_sahana",
+"version": "1.0.0",
+"description": "Basic NodeJS bu SAHANA N H",
+"main": "index.js",
+"scripts": {
+"test": "echo \"Error: no test specified\" && exit 1"
+},
+"author": "sahana n h",
+"license": "ISC"
+}
